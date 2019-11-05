@@ -1,0 +1,13 @@
+C:\Users\THIRD_PC\source\repos\HashtableApp\HashtableApp\bin\Debug\HashtableApp.exe.config
+C:\Users\THIRD_PC\source\repos\HashtableApp\HashtableApp\bin\Debug\HashtableApp.exe
+C:\Users\THIRD_PC\source\repos\HashtableApp\HashtableApp\bin\Debug\HashtableApp.pdb
+C:\Users\THIRD_PC\source\repos\HashtableApp\HashtableApp\obj\Debug\MainWindow.g.cs
+C:\Users\THIRD_PC\source\repos\HashtableApp\HashtableApp\obj\Debug\App.g.cs
+C:\Users\THIRD_PC\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp_MarkupCompile.cache
+C:\Users\THIRD_PC\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp_MarkupCompile.lref
+C:\Users\THIRD_PC\source\repos\HashtableApp\HashtableApp\obj\Debug\MainWindow.baml
+C:\Users\THIRD_PC\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.g.resources
+C:\Users\THIRD_PC\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.Properties.Resources.resources
+C:\Users\THIRD_PC\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.csproj.GenerateResource.cache
+C:\Users\THIRD_PC\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.exe
+C:\Users\THIRD_PC\source\repos\HashtableApp\HashtableApp\obj\Debug\HashtableApp.pdb
